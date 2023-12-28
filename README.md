@@ -11,7 +11,7 @@ Welcome to my C Language Gold Badge repository! This repository contains solutio
 
 ## About the Author
 
-I'm Shahriar Arafat, i'm a student of Counputer Science and technology. You can learn more about me on my [website](https://www.shahriararafat.com).
+I'm Shahriar Arafat, I'm a student of Counputer Science and technology. To know more about me visit my [website](https://www.shahriararafat.com).
 
 ## Solutions
 
