@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+
     char char_input;
     char string_input[100]; 
     char sentence_input[200]; 
